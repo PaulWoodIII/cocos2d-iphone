@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description =  'cocos2d for iPhone is a framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-c.'
   s.homepage    =  'http://www.cocos2d-iphone.org'
   s.author      =  { 'Ricardo Quesada' => 'ricardoquesada@gmail.com', 'Zynga Inc.' => 'https://zynga.com/' , 'Paul Wood' => 'https://paulwoodiii.com'}
-  s.source      =  {:git => 'https://github.com/PaulWoodIII/cocos2d-iphone.git', :tag => 'release-2.1-rc0.wi'}
+  s.source      =  {:git => 'https://github.com/PaulWoodIII/cocos2d-iphone.git', :tag => 'release-2.1rc0a'}
 
   s.source_files = 'cocos2d/**/*.{h,m,c}', 'CocosDenshion/*.{h,m}',
     FileList['external/libpng/*.{h,c}'].exclude(/pngtest.c/, /example.c/), 'external/kazmath/src/**/*.{c,h}', 'external/kazmath/include/**/*.{c,h}'
