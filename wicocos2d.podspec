@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name        =  'wicocos2d'
   s.license     =  'MIT'
-  s.version     =  '2.1.rc0.wi'
+  s.version     =  'release-2.1rc0a'
   s.summary     =  'cocos2d for iPhone is a framework for building 2D games, demos, and other graphical/interactive applications. Modified for Walkin'
   s.description =  'cocos2d for iPhone is a framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-c.'
   s.homepage    =  'http://www.cocos2d-iphone.org'
